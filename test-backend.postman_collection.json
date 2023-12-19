@@ -113,7 +113,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"Dummy User 2\",\n    \"address\": \"Dummy Address 2\",\n    \"phone\": \"088888888888\",\n    \"notes\": \"This is a notes 2\"\n}",
+							"raw": "{\n    \"name\": \"Dummy User\",\n    \"address\": \"Dummy Address\",\n    \"phone\": \"088888888888\",\n    \"notes\": \"This is a notes\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
