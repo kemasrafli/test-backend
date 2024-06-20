@@ -1,4 +1,4 @@
-# TEST BACKEND - Merkle Inovation
+# TEST BACKEND
 
 ### Setup Install
 ```
